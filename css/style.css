@@ -1,0 +1,24 @@
+/* Layout ---- */
+
+body{
+    background: url(../imagens/capa.png),
+                url(../imagens/ruido.png),
+                linear-gradient(30deg, #ff4169, #7c26f8);
+
+    background-attachment: fixed; 
+}
+
+
+.navbar-transparente{
+    background: rgba(0, 0, 0, 0.4);
+    padding: 10px 5px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color:rgb(0,0,0,0.8);
+    
+}
